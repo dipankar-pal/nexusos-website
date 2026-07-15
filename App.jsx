@@ -1,3 +1,9 @@
+import React from "react";
+
+export default function App() {
+  ...
+}
+
 import React, { useState, useEffect, useRef, useMemo, useCallback } from 'react';
 import {
   Home, CheckSquare, BarChart2, Heart, FileText, Calendar as CalendarIcon,
